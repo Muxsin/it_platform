@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="48px" height="48px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 4800 4800"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+  <style type="text/css">
+   <![CDATA[
+    .svgFillBaseColor {fill:#000000}
+    .svgFillAccent1   {fill:#FF0000}
+    .svgFillAccent2   {fill:#FF6600}
+    .svgFillAccent3   {fill:#06A9F4}
+    .svgFillAccent4   {fill:#009933}
+    .svgFillAccent5   {fill:#FFFF00}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <polygon class="svgFillBaseColor" fill-rule="nonzero" points="4256,3805 4566,4654 4168,4800 3859,3955 3303,4167 3302,2987 3300,1808 4056,2701 4800,3600 "/>
+  <g>
+   <path class="svgFillBaseColor" fill-rule="nonzero" d="M1200 0l300 0 0 300 -300 0 0 -300zm-1200 1500l300 0 0 300 -300 0 0 -300zm300 -596l300 0 0 300 -300 0 0 -300zm300 -604l300 0 0 300 -300 0 0 -300zm-600 1800l300 0 0 300 -300 0 0 -300zm600 600l300 0 0 300 -300 0 0 -300zm600 -300l300 0 0 300 -300 0 0 -300zm600 -300l300 0 0 300 -300 0 0 -300zm600 -600l300 0 0 300 -300 0 0 -300zm300 -600l300 0 0 300 -300 0 0 -300zm300 -600l300 0 0 300 -300 0 0 -300zm-1200 -300l300 0 0 300 -300 0 0 -300zm600 0l300 0 0 300 -300 0 0 -300z"/>
+  </g>
+  <text x="-8438" y="7040"  class="svgFillBaseColor" fill-rule="nonzero" font-weight="normal" font-size="1066.66px" font-family="Humanst521 BT">Common\Res\CrlCmnRes\RCBin\FreehandPick.ico</text>
+ </g>
+</svg>

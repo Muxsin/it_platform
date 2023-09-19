@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="48px" height="48px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 4800 4800"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+  <style type="text/css">
+   <![CDATA[
+    .svgFillBaseColor {fill:#000000}
+    .svgFillAccent1   {fill:#FF0000}
+    .svgFillAccent2   {fill:#FF6600}
+    .svgFillAccent3   {fill:#06A9F4}
+    .svgFillAccent4   {fill:#009933}
+    .svgFillAccent5   {fill:#FFFF00}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="svgFillBaseColor" fill-rule="nonzero" d="M0 900l1200 0 0 -900 2400 0 0 900 1200 0 -498 902 498 898 -1800 0 0 -600 -1200 0 0 600 -1800 0 530 -900 -530 -900zm1500 0l0 900 300 0 0 0 1200 0 0 0 300 0 0 -900 0 0 0 -600 -1800 0 0 600zm2100 299l0 901 -300 0 0 300 900 0 -300 -600 300 -600 -600 -1zm-2100 901l-300 0 0 0 0 -300 0 -601 -599 0 299 601 -300 600 900 0 0 -300z"/>
+  <path class="svgFillBaseColor" fill-rule="nonzero" d="M4800 3000c0,375 0,1050 0,1425 -1400,1125 -3400,-750 -4800,375 0,-375 0,-1050 0,-1425 1400,-1125 3400,750 4800,-375zm-4500 495l0 742c641,-276 1368,-95 1986,71 587,157 1665,329 2214,-34l0 -742c-641,276 -1750,95 -2368,-71 -587,-157 -1283,-329 -1832,34z"/>
+  <text x="-12350" y="8240"  class="svgFillBaseColor" fill-rule="nonzero" font-weight="normal" font-size="1066.66px" font-family="Humanst521 BT">Apps\Public\Res\VGCore\AppFunctionalCore\RCBin\drwbtn_796.ico</text>
+ </g>
+</svg>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="48px" height="48px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 4800 4800"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .svgFillBaseColor {fill:#000000}
+    .svgFillAccent1   {fill:#FF0000}
+    .svgFillAccent2   {fill:#FF6600}
+    .svgFillAccent3   {fill:#06A9F4}
+    .svgFillAccent4   {fill:#009933}
+    .svgFillAccent5   {fill:#FFFF00}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="svgFillBaseColor" fill-rule="nonzero" d="M0 0l1800 0c0,132 3,1586 -7,1609 -4,11 -137,84 -161,105 -395,330 -344,1163 121,1390 63,30 44,36 44,168 0,409 3,1119 3,1528l-1800 0 0 -4800zm1504 300l-1204 0 0 4200 1200 0 -3 -1202c-258,-185 -394,-495 -423,-806 -39,-416 64,-769 426,-992 1,-154 10,-916 4,-1200z"/>
+  <path class="svgFillAccent1" d="M3953 3300l-653 0 0 -300 603 0 0 -2c10,1 21,2 31,2l19 0 0 0c87,1 172,-22 247,-64 92,-51 171,-130 225,-231 78,-146 93,-312 56,-463 -37,-149 -126,-282 -258,-364 -49,-31 -101,-52 -156,-65 -37,-9 -75,-13 -114,-13l0 0 -21 0c-10,1 -20,1 -30,2l0 -2 -602 0 0 -300 653 0 0 0c62,0 123,7 182,21 86,20 169,55 246,102 201,125 335,325 390,547 55,220 32,462 -83,675 -82,153 -202,274 -342,352 -120,67 -254,103 -393,103l0 0z"/>
+  <path class="svgFillBaseColor" fill-rule="nonzero" d="M2700 1500l300 0 0 300 -300 0 0 -300zm0 1500l300 0 0 300 -300 0 0 -300z"/>
+  <text x="-8126" y="6740"  class="svgFillBaseColor" fill-rule="nonzero" font-weight="normal" font-size="1066.66px" font-family="Humanst521 BT">Apps\PhotoPnt\Tools\BrushTool\RCBin\LiquidToolRepel.ico</text>
+ </g>
+</svg>

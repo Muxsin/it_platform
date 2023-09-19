@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="48px" height="48px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 4800 4800"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+  <style type="text/css">
+   <![CDATA[
+    .svgFillBaseColor {fill:#000000}
+    .svgFillAccent1   {fill:#FF0000}
+    .svgFillAccent2   {fill:#FF6600}
+    .svgFillAccent3   {fill:#06A9F4}
+    .svgFillAccent4   {fill:#009933}
+    .svgFillAccent5   {fill:#FFFF00}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="-11457" y="7040"  class="svgFillBaseColor" font-weight="normal" font-size="1066.66px" font-family="Humanst521 BT">Apps\Components\LineTool\ResDll\RcBin\PremiumKnifeTool.ico</text>
+  <path class="svgFillBaseColor" d="M3600 0c300,0 600,0 1200,600 -580,580 -879,599 -1169,600 194,82 391,193 619,743 -588,244 -796,158 -1004,72l-291 -121 -553 -552 958 396c113,47 226,94 474,32 -48,-81 -93,-138 -136,-180 -67,-67 -144,-98 -221,-130l-627 -260 -1250 0 0 -300 2000 0c122,0 244,0 376,-53 105,-42 228,-116 382,-246 -360,-301 -559,-301 -758,-301l-2800 0 0 -300 2800 0z"/>
+  <path class="svgFillBaseColor" d="M4580 3520c147,146 220,338 220,530 0,192 -73,384 -220,530 -146,147 -338,220 -530,220 -192,0 -384,-73 -530,-220l-3324 -3323 0 0c-98,-99 -164,-218 -196,-345l0 -371c32,-126 98,-246 196,-345 99,-98 219,-164 345,-196l371 0c127,32 246,98 345,196l0 0 0 0 3323 3324 0 0zm-3680 -2920c166,0 300,134 300,300 0,166 -134,300 -300,300 -166,0 -300,-134 -300,-300 0,-166 134,-300 300,-300z"/>
+ </g>
+</svg>

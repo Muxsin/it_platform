@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="48px" height="48px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 4800 4800"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+  <style type="text/css">
+   <![CDATA[
+    .svgFillBaseColor {fill:#000000}
+    .svgFillAccent1   {fill:#FF0000}
+    .svgFillAccent2   {fill:#FF6600}
+    .svgFillAccent3   {fill:#06A9F4}
+    .svgFillAccent4   {fill:#009933}
+    .svgFillAccent5   {fill:#FFFF00}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="svgFillBaseColor" fill-rule="nonzero" d="M3650 2092l-1208 1208 -1582 -1581 1209 -1208 -37 -37 464 -464 1704 1704 -464 464 -86 -86zm-232 -232l-1117 -1117 -976 976 1117 1117 976 -976z"/>
+  <path class="svgFillAccent2" d="M2989 1799l-528 601 -600 -600 1128 -1zm1211 301l0 1200c0,0 -488,-37 -366,-484 82,-244 325,-716 366,-716z"/>
+  <polygon class="svgFillAccent2" points="2400,3896 4500,3896 4500,4500 2400,4500 "/>
+  <path class="svgFillBaseColor" fill-rule="nonzero" d="M150 3600l4500 0 150 0 0 150 0 900 0 150 -150 0 -4500 0 -150 0 0 -150 0 -900 0 -150 150 0zm4350 300l-4200 0 0 600 4200 0 0 -600z"/>
+  <text x="-9625" y="7045"  class="svgFillBaseColor" fill-rule="nonzero" font-weight="normal" font-size="1066.66px" font-family="Humanst521 BT">apps/components/boundary/resdll/rcbin/boundary_0.ico</text>
+ </g>
+</svg>

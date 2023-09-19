@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="48px" height="48px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 4800 4800"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .svgFillBaseColor {fill:#000000}
+    .svgFillAccent1   {fill:#FF0000}
+    .svgFillAccent2   {fill:#FF6600}
+    .svgFillAccent3   {fill:#06A9F4}
+    .svgFillAccent4   {fill:#009933}
+    .svgFillAccent5   {fill:#FFFF00}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="svgFillBaseColor" fill-rule="nonzero" d="M900 697c0,-13 1,-26 2,-39l0 0c12,-130 81,-244 188,-327 106,-82 252,-134 410,-134 129,0 249,34 346,91 35,-59 83,-112 142,-156 110,-81 260,-132 423,-132 163,0 312,51 423,132 34,26 65,55 91,86 66,-43 267,-77 382,-77 128,0 387,70 469,166 65,76 109,175 121,285l3 53 0 6 0 0 0 108c47,-18 97,-67 296,-75 214,8 398,106 480,202 65,76 109,175 121,285l3 53 0 7 0 0 0 1919 0 0 0 5c-35,996 -1223,1645 -2100,1645 -461,0 -1268,-154 -1649,-441 -495,-373 -848,-1044 -1033,-1645 0,-3 -13,-53 -15,-63 -3,-25 -5,-47 -5,-66 0,-146 73,-275 190,-366 107,-83 253,-134 411,-134 110,0 214,24 303,67 0,-289 -2,-1166 -2,-1455zm300 2003l-300 0 0 -115c0,-48 -28,-94 -73,-130 -57,-43 -137,-70 -228,-70 -91,0 -171,27 -228,70 -45,36 -73,82 -73,130 0,50 164,437 194,515l1 -1c160,436 421,782 739,1021 327,247 1072,380 1468,380 639,0 1800,-564 1800,-1350l0 -1919c0,-151 -156,-247 -287,-247 -138,0 -313,83 -313,247 0,0 0,1397 0,1469l-300 0 0 -1469 0 -580 0 -3c-2,-155 -151,-224 -294,-224 -147,0 -306,65 -306,227l0 0 0 14 0 8 0 0 0 2027 -300 0 0 -2049 0 -3 0 -233c-12,-15 -27,-29 -45,-42 -60,-45 -146,-73 -244,-73 -98,0 -184,28 -245,73 -30,22 -53,48 -66,76l0 2251 -300 0 0 -2003 0 0c0,-48 -28,-93 -74,-129 -56,-44 -136,-71 -226,-71 -90,0 -170,27 -226,71 -46,36 -74,81 -74,129l0 12 0 0 0 1991z"/>
+  <text x="-6930" y="7341"  class="svgFillBaseColor" fill-rule="nonzero" font-weight="normal" font-size="1066.66px" font-family="Humanst521 BT">Engines\CrlFX\Main\RCBin\FxBtn_142.ico</text>
+ </g>
+</svg>

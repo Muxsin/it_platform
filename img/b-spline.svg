@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="48px" height="48px" version="1.1" shape-rendering="geometricPrecision" text-rendering="geometricPrecision" image-rendering="optimizeQuality" fill-rule="evenodd" clip-rule="evenodd"
+viewBox="0 0 4800 4800"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+  <style type="text/css">
+   <![CDATA[
+    .svgFillBaseColor {fill:#000000}
+    .svgFillAccent1   {fill:#FF0000}
+    .svgFillAccent2   {fill:#FF6600}
+    .svgFillAccent3   {fill:#06A9F4}
+    .svgFillAccent4   {fill:#009933}
+    .svgFillAccent5   {fill:#FFFF00}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="svgFillBaseColor" fill-rule="nonzero" d="M1200 0l-1200 0 0 1200 600 0c-14,1834 1046,2986 3000,2999l0 601 1200 0 0 -1200 -1200 0 0 299c-1794,-12 -2714,-1036 -2702,-2699l302 0 0 -1200zm2700 4200l0 -300 0 0 600 0 0 600 -600 0 0 -300zm-3600 -3900l600 0 0 600 -600 0 0 -600z"/>
+  <path class="svgFillBaseColor" fill-rule="nonzero" d="M600 1200l-300 0 0 300 300 0 0 -300zm3000 3000l-300 0 0 300 300 0 0 -300zm-600 0l-300 0 0 300 300 0 0 -300zm-600 0l-300 0 0 300 300 0 0 -300zm-600 0l-300 0 0 300 300 0 0 -300zm-600 0l-300 0 0 300 300 0 0 -300zm-600 0l-300 0 0 300 300 0 0 -300zm0 -600l-300 0 0 300 300 0 0 -300zm0 -600l-300 0 0 300 300 0 0 -300zm0 -600l-300 0 0 300 300 0 0 -300zm0 -600l-300 0 0 300 300 0 0 -300z"/>
+  <text x="-8725" y="7040"  class="svgFillBaseColor" fill-rule="nonzero" font-weight="normal" font-size="1066.66px" font-family="Humanst521 BT">apps/components/bspline/resdll/rcbin/bspline_0.ico</text>
+ </g>
+</svg>
